@@ -7,7 +7,7 @@ hello xuqunqun! hello git!
 hello xuqunqun! hello git!
 hello xuqunqun! hello git!
 hello xuqunqun! hello git!
+hello xuqunqun! hello git! hot-fix test1
 hello xuqunqun! hello git!
 hello xuqunqun! hello git!
-hello xuqunqun! hello git!
-hello xuqunqun! hello git! hot-fix test
+hello xuqunqun! hello git! 
